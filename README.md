@@ -15,4 +15,4 @@ Data Engineering
 
     - - Open the Command Palette again and search and select Python:: Select Interpreter. Now you will see the newly created virtual environmnet (something similar to Python 3.7.3 64-bit (‘env’, venv)). Select the virtual environment as your interpreter.
 
-    - Virtual environment is ready. Now we will see how to install a Python package.
+    - - Virtual environment is ready. Now we will see how to install a Python package.
