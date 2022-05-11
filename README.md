@@ -5,7 +5,7 @@ Data Engineering
 - Code not working yet because `schedules` and `requests` were not getting imported, to revisit soon
 
 - Running pip install on mac
-    - `https://www.mytecbits.com/internet/python/installing-python-packages`
+    - [link] https://www.mytecbits.com/internet/python/installing-python-packages
     - Search and start Terminal: Create New Integrated Terminal. The terminal panel will open at the bottom.
     - In the terminal run these comments.
         `python3 -m venv env`
