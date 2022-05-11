@@ -2,7 +2,7 @@
 Data Engineering
 
 - May 11, 2022
-- Code not working yet because `schedules` and `requests` were not getting imported, to revisit soon
+- Code not working yet because `schedules` and `requests` were not getting imported; to revisit soon
 
 - Running pip install on mac
     - https://www.mytecbits.com/internet/python/installing-python-packages
