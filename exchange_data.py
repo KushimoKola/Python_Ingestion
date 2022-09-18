@@ -27,6 +27,8 @@ def pull_currency_data(site_url, apikey, file_name):
 key = '2447285030a725a86d4ef48ea1336edb9c67189caa0750fb8ab4697799861dc8'
 url = 'https://min-api.cryptocompare.com/data/price?fsym=BTC&tsyms=USD,JPY,EUR,NGN&api_key='
 file_name = './currency_extract.csv'
+
+# Refresh rate is every 60seconds
 schedule.every(60).seconds.do(pull_currency_data, url, key, file_name)
 
 while True:
