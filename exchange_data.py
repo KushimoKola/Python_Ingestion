@@ -8,6 +8,7 @@ import time
 import json
 
 #having issues importing schedule and requests
+  # Fixed, only had to run 'pip3 install request' in terminal
 
 def pull_currency_data(site_url, apikey, file_name):
     """
